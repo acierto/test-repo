@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "BDD/TDD assertion library for node.js and the browser. Test framework agnostic.",
   "license": "MIT",
   "keywords": [
@@ -25,4 +25,3 @@
   "dependencies": {},
   "devDependencies": {}
 }
-
