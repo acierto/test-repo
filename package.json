@@ -1,7 +1,7 @@
 {
   "name": "test-repo",
   "author": "Bogdan Nechyporenko",
-  "version": "1.0.13-alpha.2",
+  "version": "1.0.13-beta.0",
   "main": "main.js",
   "dependencies": {
     "gulp-bump": "0.3.1",
