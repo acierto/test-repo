@@ -1,7 +1,7 @@
 {
   "name": "test-repo",
   "author": "Bogdan Nechyporenko",
-  "version": "1.0.37",
+  "version": "1.0.41",
   "main": "main.js",
   "dependencies": {
     "gulp-bump": "0.3.1",
@@ -13,8 +13,8 @@
     "yargs": "3.24.0"
   },
   "devDependencies": {
-    "gulp": "3.9.0",
-    "gulp-release-it": "1.0.5"
+    "gulp": "3.9.1",
+    "gulp-release-it": "1.1.0"
   },
   "scripts": {
     "start": ""
