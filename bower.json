@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "1.0.50-fix-version.10",
+  "version": "1.0.50-fix-version.11",
   "description": "BDD/TDD assertion library for Node.js and the browser. Test framework agnostic.",
   "license": "MIT",
   "keywords": [

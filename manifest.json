@@ -1,7 +1,7 @@
 {
   "name": "Great App Name",
   "description": "Pithy description (132 characters or less, no HTML)",
-  "version": "1.0.50-fix-version.10",
+  "version": "1.0.50-fix-version.11",
   "manifest_version": 2,
   "icons": {
     "128": "icon_128.png"
