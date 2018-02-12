@@ -1,7 +1,7 @@
 {
   "name": "test-repo",
   "author": "Bogdan Nechyporenko",
-  "version": "1.0.177",
+  "version": "1.0.175",
   "main": "main.js",
   "dependencies": {
     "ansi-colors": "1.0.1",
@@ -37,7 +37,7 @@
     "babel-preset-stage-0": "6.24.1",
     "babel-root-import": "4.1.8",
     "gulp": "4.0.0",
-    "gulp-release-it": "2.0.9-alpha.2"
+    "gulp-release-it": "2.0.9-alpha.3"
   },
   "scripts": {
     "start": ""
