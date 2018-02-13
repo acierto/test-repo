@@ -41,5 +41,6 @@
   "scripts": {
     "start": ""
   },
-  "license": "MIT"
+  "license": "MIT",
+  "version": null
 }

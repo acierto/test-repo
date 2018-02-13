@@ -22,5 +22,6 @@
     ".*"
   ],
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "version": null
 }

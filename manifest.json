@@ -12,5 +12,6 @@
     "launch": {
       "web_url": "http://mysubdomain.example.com/"
     }
-  }
+  },
+  "version": null
 }
