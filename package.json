@@ -1,7 +1,7 @@
 {
   "name": "test-repo",
   "author": "Bogdan Nechyporenko",
-  "version": "1.0.181",
+  "version": "1.0.182",
   "main": "main.js",
   "dependencies": {
     "ansi-colors": "1.0.1",
