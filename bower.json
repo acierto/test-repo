@@ -7,5 +7,5 @@
   "ignore": ["build", "components", "lib", "node_modules", "support", "test", "index.js", "Makefile", ".*"],
   "dependencies": {},
   "devDependencies": {},
-  "version": "1.0.188"
+  "version": "1.0.189"
 }
