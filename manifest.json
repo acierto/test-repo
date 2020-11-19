@@ -6,12 +6,10 @@
     "128": "icon_128.png"
   },
   "app": {
-    "urls": [
-      "http://mysubdomain.example.com/"
-    ],
+    "urls": ["http://mysubdomain.example.com/"],
     "launch": {
       "web_url": "http://mysubdomain.example.com/"
     }
   },
-  "version": "1.0.186"
+  "version": "1.0.187"
 }
