@@ -9,7 +9,7 @@
     "gulp-git": "2.5.0",
     "gulp-json-editor": "2.2.1",
     "gulp-prompt": "1.0.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "map-stream": "0.0.7",
     "semver": "5.4.1",
     "string": "3.3.3",
